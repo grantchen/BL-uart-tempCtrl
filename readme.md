@@ -10,3 +10,4 @@ JVM: Java HotSpot(TM) 64-Bit Server VM by Apple Inc.
 helloWorld -> 文本切换测试  
 loginView -> 登陆测试，界面切换  
 ListView -> 添加表格式图  
+AndroidBluetooth -> 简单的蓝牙聊天  
