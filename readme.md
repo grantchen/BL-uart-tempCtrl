@@ -12,3 +12,4 @@ helloWorld -> 文本切换测试
 loginView -> 登陆测试，界面切换  
 ListView -> 添加表格式图  
 AndroidBluetooth -> 简单的蓝牙聊天  
+flapBird -> flappybird小游戏（现在不可用  
